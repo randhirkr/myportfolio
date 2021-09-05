@@ -1,15 +1,15 @@
 # My Portfolio
 
 #### Prerequisites for local development
-Visual Studio Code(IDE)
-Node.js HTTP server
-Install nodejs first on the system before running below command
+- Visual Studio Code(IDE)
+- Node.js HTTP server
+- Install nodejs first on the system before running below command
 ```
 npm install http-server -g
 ```
 #### Steps for running project locally
-Open vscode terminal
-Move to project root folder(myportfolio) and execute "http-server" command. Example shown below:
+- Open vscode terminal
+- Move to project root folder(myportfolio) and execute `http-server` command. Example shown below:
 ```
 myportfolio % http-server
 Starting up http-server, serving ./
