@@ -32,3 +32,4 @@ Test the website using above URL using the browser client.
 #### Reference
 - https://www.skillshare.com/classes/Building-a-basic-portfolio-website-using-HTML-CSS-and-JavaScript/1658789549
 - https://docs.microsoft.com/en-us/learn/modules/build-simple-website/
+- https://fonts.google.com/
