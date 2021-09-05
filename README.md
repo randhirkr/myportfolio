@@ -1,6 +1,7 @@
-# myportfolio
+# My Portfolio
 
-### Initial setup
-'''
+#### Initial setup
+
+```
 npm install http-server -g
-'''
+```
