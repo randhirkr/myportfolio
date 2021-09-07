@@ -33,3 +33,6 @@ Test the website using above URL using the browser client.
 - https://www.skillshare.com/classes/Building-a-basic-portfolio-website-using-HTML-CSS-and-JavaScript/1658789549
 - https://docs.microsoft.com/en-us/learn/modules/build-simple-website/
 - https://fonts.google.com/
+- https://aws.amazon.com/premiumsupport/knowledge-center/cloudfront-https-requests-s3/
+- https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/SecurityAndPrivateContent.html
+- https://aws.amazon.com/premiumsupport/knowledge-center/cloudfront-serve-static-website/
